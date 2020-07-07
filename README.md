@@ -30,7 +30,8 @@ This Script Helps you to Track whether Product is in stock or not And Send Notif
 - Goto `my.telegram.org`
 - Login with your number
 - Create new app (fill the form)
-- After submit copy your `api_id` and `api_hash` and paste in fk.py
+- After submit copy your `api_id` and `api_hash` and paste in script.py
+- Also Add ur Channel username in "YOUR CHANNEL USERNAME" in script.py
 - Now run the script and ENJOY!!
 
  ***Step 2 (Method 2)***
@@ -40,4 +41,5 @@ This Script Helps you to Track whether Product is in stock or not And Send Notif
 - Enter Your Details
 - Finally Bot Gives You API ID AND HASH ID
 - Copy and add in script.py file
-- Here you Go
+- Also Add ur Channel username in "YOUR CHANNEL USERNAME" in script.py
+- Here you Go :)
