@@ -20,7 +20,7 @@ This Script Helps you to Track whether Product is in stock or not And Send Notif
 
 	pip install -r requirements.txt
 
-***Run script***
+## ***Run script***
  -Go to Folder Directory In Terminal And Run
     python Script.py
 
