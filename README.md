@@ -21,12 +21,12 @@ This Script Helps you to Track whether Product is in stock or not And Send Notif
 	pip install -r requirements.txt
 
 ## ***Run script***
--Go to Folder Directory In Terminal And Run
+- Go to Folder Directory In Terminal And Run
 
 	python Script.py
 
 ## ***Generate api details through telegram***
-Step 1 (Method 1)
+   ***Step 1 (Method 1)***
 - Goto `my.telegram.org`
 - Login with your number
 - Create new app (fill the form)
@@ -34,10 +34,10 @@ Step 1 (Method 1)
 - Now run the script and ENJOY!!
 
 ## ***Step 2 (Method 2)***
--Go to Telegram App
--Search For (@BotFather)
--Send message (Start/)
--Enter Your Details
--Finally Bot Gives You API ID AND HASH ID
--Copy and add in script.py file
--Here you Go
+- Go to Telegram App
+- Search For (@BotFather)
+- Send message (Start/)
+- Enter Your Details
+- Finally Bot Gives You API ID AND HASH ID
+- Copy and add in script.py file
+- Here you Go
