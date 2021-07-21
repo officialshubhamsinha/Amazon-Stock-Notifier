@@ -3,4 +3,4 @@ pyrogram
 bs4
 urllib3
 Client
-banner
+banner 
