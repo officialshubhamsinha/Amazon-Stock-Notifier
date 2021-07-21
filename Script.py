@@ -63,7 +63,7 @@ def main():
                         print(title +'is out of stock')
                         if index == last_l - 1:
                             time.sleep(300) #You can change it as per your Requirement (Only in seconds)
-                    # product is oos
+                    ## product is oos
                 
             except:
                 try:
